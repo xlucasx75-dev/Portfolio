@@ -1,1 +1,5 @@
 Elève en <strong>BTS SIO</strong>
+
+-Améliorations du CV (Profil) sur la page Accueil
+-Ajouts (Projets.html) des parties Projets Scolaires, Personnels, Professionnels + Bouton prêt à redirigé vers la page du Projet NutriSport
+-Création d'un txt notes
