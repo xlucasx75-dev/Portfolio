@@ -3,6 +3,13 @@
     box-sizing: border-box;
 }
 
+.nav {
+  display: flex;
+  justify-content: center; /* Centre les éléments horizontalement */
+  align-items: center;
+  gap: 40px; /* Espace régulier entre chaque éléments */
+}
+
 body {
     max-width: 100%;
     margin: 0;
@@ -19,37 +26,32 @@ td {
 
 .button_page_accueil {
     position: relative;
-    left: 18%;
-    top: 10px;
     margin: 0;
+    line-height: 3;
 }
 
 .button_page_experiences {
     position: relative;
-    left: 33%;
-    top: 10px;
     margin: 0;
+    line-height: 3;
 }
 
 .button_page_projets {
     position: relative;
-    left: 49%;
-    top: 10px;
     margin: 0;
+    line-height: 3;
 }
 
 .button_page_veille {
     position: relative;
-    left: 63%;
-    top: 10px;
     margin: 0;
+    line-height: 3;
 }
 
 .button_page_contact {
     position: relative;
-    left: 77%;
-    top: 10px;
     margin: 0;
+    line-height: 3;
 } 
 
 /* Portfolio.html */
