@@ -1,0 +1,29 @@
+/* index.html */
+
+h1 {
+    color:#618985
+}
+
+h2 {
+    color:#96bbbb
+}
+
+body {
+    font-size: 15px;
+    color: #414535;
+    font-family:Times, Arial;
+}
+
+.Titre { /* Titres Bienvenue */
+    color:#618985;
+    font-size: 48px;
+    font-family:Verdana, Arial;
+}
+
+.td1_index {
+    background-color: #c19875;
+}
+
+.td2_index {
+    background-color: #f2e3bc;
+}
