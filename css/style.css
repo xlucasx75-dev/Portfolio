@@ -4,26 +4,61 @@ h1 {
     color:#618985
 }
 
-h2 {
-    color:#96bbbb
+body {
+    margin: 0;
+    font-size: 16px;
+    color: #000000;
+    font-family:Times, Arial;
+    background-color: #98B9F2;
 }
 
-body {
-    font-size: 15px;
-    color: #414535;
-    font-family:Times, Arial;
+.navigation {
+    display: grid; /* Organise les groupes autour de Projets. */
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); /* Garde Projets au centre. */
+    gap: 35px;
+    max-width: 420px;
+    width: 100%;
+    margin: 16px auto; 
+}
+
+.navigation-gauche {
+    display: flex; /* Aligne les liens du groupe sur une ligne. */
+    gap: 35px;
+    white-space: nowrap; /* Empeche les liens de passer sur une autre ligne. */
+    justify-content: flex-end; /* Aligne les liens vers le centre de la page. */
+}
+
+.navigation-droite {
+    display: flex; /* Aligne les liens du groupe sur une ligne. */
+    gap: 35px;
+    white-space: nowrap; /* Empeche les liens de passer sur une autre ligne. */
+    justify-content: flex-start; /* Aligne les liens depuis le centre vers la droite. */
 }
 
 .Titre { /* Titres Bienvenue */
-    color:#618985;
+    color:#6092e8;
     font-size: 48px;
     font-family:Verdana, Arial;
 }
 
-.td1_index {
-    background-color: #c19875;
+.FirstTitre {
+    margin-top: 120px;
 }
 
-.td2_index {
-    background-color: #f2e3bc;
+.DernierTitre {
+    margin-bottom: 120px;
+}
+
+.section2 {
+    background-color: #6092e8;
+}
+
+.cv_img {
+    margin-left: 25%;
+    margin-top: 25px;
+}
+
+.button_download {
+    display: flex;
+    justify-content: center;
 }

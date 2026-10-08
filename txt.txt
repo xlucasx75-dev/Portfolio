@@ -9,3 +9,90 @@ Elève en <strong>BTS SIO</strong>
 <div style="text-align: center;">
 
 <div>
+
+
+<table>
+            <tr>
+                <th>
+                    <h2> LUCAS DALES </h2>
+                </th>
+            </tr>
+            <tr>
+                <td width="25%" valign="top">
+                    <h3>ADRESSE</h3>
+                        <p>690 Route de Larmandie</p>
+                        <p>19270 Sainte Fereole</p>
+                        <p></p> <!--Espace-->
+
+                    <h3>COMPÉTENCES</h3>
+                    <ul>
+                        <li><strong>HTML / CSS</strong></li>
+                            <p></p> <!--Espace-->
+                        <li><strong>PHP MySQL</strong></li>
+                            <p></p> <!--Espace-->
+                        <li><strong>Python</strong></li>
+                            <p></p> <!--Espace-->
+                        <li><strong>Github</strong></li>
+                            <p></p> <!--Espace-->
+                    </ul>  
+
+                    <h3>QUALITÉS</h3>
+                    <ul>
+                        <li><strong>Sérieux</strong></li>
+                            <p></p> <!--Espace-->
+                        <li><strong>Créatif</strong></li>
+                            <p></p> <!--Espace-->
+                        <li><strong>Persévérant</strong></li>
+                            <p></p> <!--Espace-->
+                        <li><strong>Rigoureux</strong></li>
+                            <p></p> <!--Espace-->
+                    </ul>
+                    
+                    <h3>LOISIRS</h3>
+                    <ul>
+                        <li><strong>Jeux Vidéos</strong></li>
+                            <label>Minecraft - Autres</label>
+                            <p></p> <!--Espace-->
+                        <li><strong>Écriture</strong></li>
+                            <label>Roman en cours d'écriture</label>
+                            <p></p> <!--Espace-->
+                        <li><strong>Diffusion sur Twitch</strong></li>
+                            <label>Streams seul ou avec des amis</label>
+                            <p></p> <!--Espace-->
+                    </ul>
+                </td>
+                <td width="75%" valign="top">
+                    <h3>FORMATIONS</h3>
+                    <table>
+                        <tr>
+                            <td>2026-2027</td>
+                            <td><p>BTS Services Informatiques aux Organisations - 1ère Année</p>
+                                <p>Lycée Marguerite Bahuet - Brive-la-Gaillarde</p></td>
+                        </tr>
+                        <tr>
+                            <td>2023-2026</td>
+                            <td><p>Baccalauréat Professionnel CIEL</p>
+                                <p>Lycée Georges Cabanis - Brive-la-Gaillarde</p></td>
+                        </tr>
+                        <tr>
+                            <td>2019-2023</td>
+                            <td><p>6ème / 5ème / 4ème / 3ème</p>
+                                <p>Collège Jean Lurçat - Brive-la-Gaillarde</p></td>
+                        </tr>
+                    </table>
+                    <h3>DIPLÔMES</h3>
+                    <table>
+                        <tr>
+                            <td>2026</td>
+                            <td><p>Baccalauréat Professionnel CIEL</p>
+                                <p>Mention Assez Bien</p></td>
+                        </tr>
+                        <tr>
+                            <td>2023</td>
+                            <td><p>Diplôme National du Brevet (DNB)</p>
+                                <p>Mention Assez Bien</p></td>
+                        </tr>  
+                    </table>
+                </td>
+            </tr>
+        </table>
